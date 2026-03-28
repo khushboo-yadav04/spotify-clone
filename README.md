@@ -3,7 +3,6 @@
 
 Spotify Clone UI using HTML &amp; CSS. Beginner frontend project.
 
-
 # 🎵 Spotify Clone (Frontend)
 
 This is a **Spotify Clone UI project** built using HTML and CSS.
