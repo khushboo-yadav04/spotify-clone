@@ -1,6 +1,4 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/28c295cb-ae05-4918-9fb5-845632be02d1" />
-
-
 Spotify Clone UI using HTML &amp; CSS. Beginner frontend project.
 
 # 🎵 Spotify Clone (Frontend)
